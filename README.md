@@ -18,10 +18,8 @@
 
 
 - 🔭 I’m currently on **Hanbat university**
-
 - 🌱 I’m currently learning **JS**
 - 📫 How to reach me hwp537244@gmail.com
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hwp" height="30" width="40" /></a>
